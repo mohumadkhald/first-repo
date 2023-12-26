@@ -1,0 +1,7 @@
+local
+git branch -d new(branch-name) -> soft delete err with new commit
+git branch -D branch-name => hard delete
+
+
+remote
+from branches delete any branche
